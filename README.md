@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2 align='center'> Hi, I'm Ajitesh! 👋 </h2>
+<h3 align='center' >
+  I am a software developer, creator, and life-long learner!
+  Check out more about me <a href='https://tiredkangaroo.github.io/'>here</a>!
+ </h3>
+<div align="center">
+ 
+<a href = "">![](https://komarev.com/ghpvc/?username=tiredkangaroo&color=ff6c8c)</a><br>
+<a href = "">![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiredkangaroo&show_icons=true&theme=dracula)</a> </br>
+<a href = "">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiredkangaroo&theme=dracula)](https://github.com/tiredkangaroo/github-readme-stats)
 
-<!--
-**tiredkangaroo/tiredkangaroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div><br>
